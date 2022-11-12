@@ -48,7 +48,7 @@ function Header() {
         </div>
         <div className="flex-none hidden lg:block">
           <a
-            href="https://github.com/manhhn01"
+            href="https://github.com/manhhn01/portfolio"
             target="blank"
             className="text-black btn btn-ghost dark:text-white"
           >

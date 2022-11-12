@@ -148,7 +148,10 @@ function HomePage() {
                       React Router 6
                     </div>
                     <div className="text-black border-black badge badge-outline dark:border-white dark:text-white">
-                      CSS Module
+                      JWT
+                    </div>
+                    <div className="text-black border-black badge badge-outline dark:border-white dark:text-white">
+                      SocketIO
                     </div>
                     <div className="text-black border-black badge badge-outline dark:border-white dark:text-white">
                       ExpressJS
